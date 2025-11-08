@@ -13,6 +13,7 @@ cmake --build .
 .\Debug\MyProgram.exe
 
 
+
 Последовательность команд при сборке на Linux:
 
 mkdir build
